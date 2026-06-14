@@ -38,9 +38,14 @@ export default function AboutPage() {
       </section>
 
       <section className="section founder-section">
-        <div className="founder-mark" aria-hidden="true">
-          AK
-        </div>
+      <div className="founder-photo">
+       <img
+         src="/arun.jpg"
+         alt="Arun Kumar"
+         width={220}
+         height={220}
+  />
+</div>
         <div>
           <p className="eyebrow">Founder & Principal</p>
           <h2>Arun Kumar</h2>
