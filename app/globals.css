@@ -631,4 +631,24 @@ h3 {
   .founder-mark {
     width: 160px;
   }
+}@media (max-width: 768px) {
+  .contact-page {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .contact-main {
+    order: 1;
+  }
+
+  .contact-sidebar {
+    order: 2;
+    padding-top: 0;
+    margin-top: 1rem;
+  }
+
+  .contact-main h1 {
+    font-size: clamp(3rem, 14vw, 4.5rem);
+    max-width: 100%;
+  }
 }
