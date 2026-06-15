@@ -50,13 +50,13 @@ export default function AboutPage() {
           <p className="eyebrow">Founder & Principal</p>
           <h2>Arun Kumar</h2>
           <p>
-            Arun has 25+ years of experience across analytics, marketing technology, data
+            Arun has more than two decades of experience across analytics, marketing technology, data
             strategy, personalization, measurement, AI, and digital transformation.
           </p>
           <p>
             His experience includes leadership roles and client work across agencies,
             consultancies, technology platforms, healthcare, financial services, retail,
-            government, and consumer brands.
+            and consumer brands.
           </p>
         </div>
       </section>

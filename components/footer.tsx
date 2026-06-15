@@ -21,6 +21,9 @@ export function Footer() {
           Independent guidance for data, analytics, transformation, and AI
           decisions.
         </p>
+        <p className="footer-copyright">
+           © 2026 ArkNetz LLC. All rights reserved.
+        </p>
       </div>
 
       <div className="footer-links">
